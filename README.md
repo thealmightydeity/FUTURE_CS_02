@@ -28,3 +28,10 @@ The project is organized in a modular structure with three separate files (index
 
 Outcome:
 The Password Strength Analyzer enhances user awareness of password security practices, promoting better cybersecurity habits.
+
+
+********************************************************************************************************************************
+
+Password Strength Analyzer using Python
+
+To create a Password Strength Analyzer using Python, incorporating Tkinter for the GUI and hashlib for encryption view password_analyzer.py
